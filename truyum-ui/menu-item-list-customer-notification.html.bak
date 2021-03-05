@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Document</title>
+  <link rel = "Stylesheet" href="Styles.css"></link>
+ </head>
+ <body>
+  <div id ="header">
+		<h1>truYum</h1>
+		<a id="Cart" href ="#">Cart</a>
+		<a id="Menu" href="#">Menu</a>
+	</div>
+	<div id="contents">
+	<h2>Menu Items</h2>
+	<h2 id="IATS">Item Added to Cart Sucessfully</h2>
+	<table cellspacing="10">
+	<tr>
+		<td class="N"><b>Name</b></td>
+		<td class="F"><b>Free Delivery</b></td>
+		<td class="P"><b>Price</b></td>
+		<td class="C"><b>Category</b></td>
+		<td class="A1"><b>Action</b></td>
+	</tr>
+	<tr>
+		<td class="b">Sandwitch</td>
+		<td class="a">Yes</td>
+		<td class="a">Rs.99.00</td>
+		<td class="a">Main Course</td>
+		<td class="a"><a href="menu-item-list-customer-notification.html">Add to Cart</a></td>
+	</tr>
+	<tr>
+		<td class="b">Burger</td>
+		<td class="a">No</td>
+		<td class="a">Rs.129.00</td>
+		<td class="a">Main Course</td>
+		<td class="a"><a href="menu-item-list-customer-notification.html">Add to Cart</a></td>
+	</tr>
+	<tr>
+		<td class="b">Pizza</td>
+		<td class="a">No</td>
+		<td class="a">Rs.149.00</td>
+		<td class="a">Main Course</td>
+		<td class="a"><a href="menu-item-list-customer-notification.html">Add to Cart</a></td>
+	</tr>
+	</table>
+	</div>
+	<div id="footer">
+		<h3>Copyright @ 2020</h3>
+  </div>
+ </body>
+</html>

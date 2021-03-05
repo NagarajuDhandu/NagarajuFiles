@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Document</title>
+  <link rel = "Stylesheet" href="Styles.css"></link>
+ </head>
+ <body>
+  <div id ="header">
+		<h1>truYum</h1>
+		<a id="Cart" href ="menu-item-list-customer-notification.html">Cart</a>
+		<a id="Menu" href="menu-item-list-customer.html">Menu</a>
+	</div>
+	<div id="contents">
+	<h2 id="p">Cart</h2>
+	<h2 id="IATS">Item removed from Cart Sucessfully...</h2>
+	<table cellspacing="5">
+	<tr>
+		<td class="N"><b>Name</b></td>
+		<td class="F"><b>Free Delivery</b></td>
+		<td class="P"><b>Price</b></td>
+	</tr>
+	<tr>
+		<td class="b">Sandwitch</td>
+		<td class="a">Yes</td>
+		<td class="a">Rs.99.00</td>
+		<td class="a"><a href="#">Delete</a></td>
+	</tr>
+	<tr>
+		<td class="b">Burger</td>
+		<td class="a">No</td>
+		<td class="a">Rs.129.00</td>
+		<td class="a"><a href="#">Delete</a></td>
+	</tr>
+	</table>
+	</div>
+	<div id="footer">
+		<h3>Copyright @ 2020</h3>
+  </div>
+ </body>
+</html>

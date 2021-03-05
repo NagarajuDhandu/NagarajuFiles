@@ -1,0 +1,41 @@
+
+#header{width:1350px;height:100px;
+		background-color:#0080ff}
+#footer{width:1350px;height:100px;
+		background-color:#c0c0c0}
+#contents{height:370px;margin:30px;padding:10px 0px 0px 0px}
+h1{float:left;color:white;padding:10px 0px 0px 25px}
+#Menu{float:right;font-size:25px;color:white;padding:35px 50px 0px 0px}
+#Cart{float:right;font-size:25px;color:white;padding:35px 50px 0px 0px}
+h2{padding:10px;margin-left:40px}
+h3{padding-top:40px;padding-left:30px}
+.a{padding:10px 25px 0px 40px;margin:30px}
+.b{padding:10px 135px 0px 50px;margin:30px}
+.N{padding:10px 45px 0px 50px;margin:30px}
+.P{padding:10px 35px 0px 45px;margin:30px}
+.A{padding:10px 35px 0px 30px;margin:30px}
+.D{padding:10px 35px 0px 27px;margin:30px}
+.C{padding:10px 35px 0px 45px;margin:30px}
+.F{padding:10px 35px 0px 10px;margin:30px}
+.Ac{padding:10px 35px 0px 30px;margin:30px}
+.A1{padding:10px 35px 0px 50px;margin:30px}
+.rn{margin:20px 0px 0px 70px}
+#aa{width:820px;margin-left:100px;padding:6px;font-size:15px}
+#bb{margin-left:100px;font-size:20px}
+.cc{font-size:20px;padding-left:20px}
+.dd{font-size:20px;padding-left:35px}
+.ee{font-size:20px;padding-left:35px}
+.ff{font-size:20px;padding-left:40px}
+#gg{padding:7px;font-size:15px}
+#hh{padding:7px 11px;font-size:15px}
+#ii{padding:7px 11px}
+#o{font-size:17px}
+#jj{width:18px;height:22px}
+#q{width:20px;height:2em}
+#r{font-size:20px;padding:8px 50px;margin:20px 0px 0px 0px;background-color:#0080ff;color:white}
+label{font-size:20px;padding:0px 5px 50px 5px}
+.h2{padding:10px;margin-left:90px}
+#status{font-size:30px;padding-left:35px}
+#midas{font-size:20px;padding:0px 5px 50px 75px;color:green}
+#IATS{font-size:20px;color:green;padding-left:250px}
+#p{font-size:30px}

@@ -1,0 +1,11 @@
+function validateTittle() {
+	
+	var letters = /^[A-Za-z]+$/
+	var msg=""
+	
+	if(name.match(letters))
+	{
+
+	}
+
+}

@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Remove Book</title>
+  <link rel = "Stylesheet" href="Styles.css"></link>
+ </head>
+ <body>
+   <div id = "header">
+		<h1>Library App</h1>
+		<a href ="home.Html">Home</a>
+  </div>
+		<div id="contents">
+		<center id="dn">
+		<h2>Enter Tittle tobe Removed</h2>
+		<input type="text">
+		<input type="submit" value="remove">
+		</center>
+		</div>
+  <div id = "footer">
+	 <h2>@Copyrights 2020</h2>
+  </div>
+ </body>
+</html>

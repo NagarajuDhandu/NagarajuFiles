@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Document</title>
+  <link rel = "Stylesheet" href="Styles.css"></link>
+ </head>
+ <body>
+
+	<form>
+  <div id ="header">
+		<h1>truYum</h1>
+		<a id="Menu" href ="menu-item-list-admin.html">Menu</a>
+  </div>
+  <div id="contents">
+	<h2 class="h2">Edit Menu items</h2>
+
+	<label id="bb">Name<br><input id="aa" type = "text" name="Name"required></label>
+
+	<table cellspacing="15" class="rn">
+	<tr>
+		<td class="cc">Price (Rs.)<br><input id="gg"type="number" required></td>
+		<td class="dd">Active<br><input id="jj" type="radio" name="radio"><label>Yes</label><input id="jj" type="radio" name="radio"><label>No</label></td>
+		<td class="ee">Date of Launch<br><input id="hh" type="number" required></td>
+		<td class="ff">Category<br><select id="ii"><option id="o">...Select...
+								<option>Starters
+								<option>Main Course
+								<option>Dessert
+								<option>Drinks</td>
+	</tr>
+	</table>
+	<input id="q" type="checkbox"><label id="bb">Free Delivery</label><br>
+	<label id="bb"><input id="r" type="submit" value="Save"></label>
+
+  </div>
+
+  <div id="footer">
+	   <h3>Copyright @ 2020</h3>
+  </div>
+</form>
+ </body>
+</html>

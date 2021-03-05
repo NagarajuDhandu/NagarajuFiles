@@ -1,0 +1,76 @@
+b<!doctype html>
+<html lang="en">
+ <head>
+  <title>Document.HTMl</title>
+  <link rel = "Stylesheet" href="Styles.css"></link>
+ </head>
+ <body>
+ <div id ="header">
+		<h1>truYum</h1>
+		<a id="Menu" href ="menu-item-list-admin.html">Menu</a>
+	</div>
+
+<div id="contents">
+  <h2>Menu Items</h2>
+	<table id="tab" cellspacing="3">
+	<tr>
+		<td class="N"><strong>Name</strong></td>
+		<td class="P"><strong>Price</strong></td>
+		<td class="A"><strong>Active</strong></td>
+		<td class="D"><strong>Date of Lunch</strong></td>
+		<td class="C"><strong>Category</strong></td>
+		<td class="F"><strong>Free Delivery</strong></td>
+		<td class="Ac"><strong>Action</strong></td>
+	</tr>
+	<tr>
+		<td class="b">Sandwitch</td>
+		<td class="a">Rs.99.00</td>
+		<td class="a">Yes</td>
+		<td class="a">15/3/2017</td>
+		<td class="a">Main course</td>
+		<td class="a">Yes</td>
+		<td class="a"><a href="edit-menu-item.html">Edit</a></td>
+	</tr>
+	<tr>
+		<td class="b">Burger</td>
+		<td class="a">Rs.129.00</td>
+		<td class="a">Yes</td>
+		<td class="a">23/12/2017</td>
+		<td class="a">Main course</td>
+		<td class="a">No</td>
+		<td class="a"><a href="edit-menu-item.html">Edit</a></td>
+	</tr>
+	<tr>
+		<td class="b">Pizza</td>
+		<td class="a">Rs.149.00</td>
+		<td class="a">Yes</td>
+		<td class="a">21/8/2017</td>
+		<td class="a">Main course</td>
+		<td class="a">No</td>
+		<td class="a"><a href="edit-menu-item.html">Edit</a></td>
+	</tr>
+	<tr>
+		<td class="b">French Fries</td>
+		<td class="a">Rs.57.00</td>
+		<td class="a">No</td>
+		<td class="a">02/07/2017</td>
+		<td class="a">Starters</td>
+		<td class="a">Yes</td>
+		<td class="a"><a href="edit-menu-item.html">Edit</a></td>
+	</tr>
+	<tr>
+		<td class="b">Chocolate Brownie</td>
+		<td class="a">Rs.32.00</td>
+		<td class="a">Yes</td>
+		<td class="a">02/11/2022</td>
+		<td class="a">Dessert</td>
+		<td class="a">Yes</td>
+		<td class="a"><a href="edit-menu-item.html">Edit</a></td>
+	</tr>
+	</table>
+</div>
+  <div id="footer">
+		<h3>Copyright @ 2020</h3>
+  </div>
+ </body>
+</html>

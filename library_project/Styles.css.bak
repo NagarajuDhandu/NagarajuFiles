@@ -1,0 +1,33 @@
+#header{width:1350px;
+		height:100px;
+		background-color:#0080c0}
+
+#contents{width:1350px;
+		  height:380px}
+
+#footer{width:1350px;
+		height:100px;
+		background-color:#c0c0c0}
+
+h1{float:left;color:white;padding:10px;0px;0px;10px}
+
+h1:hover{color:#00ffff}
+
+a{float:right;color:white;font-size:28px;padding:30px;50px;0px;0px}
+
+a:hover{color:#00ffff}
+
+h2{padding:35px;0px;0px;30px}
+
+h2:hover{color:red}
+
+h3{font-size:30px}
+
+input{ padding:6px;margin:15px;font-size:20px;border-radius:10px;color:#000000}
+
+input:hover{background-color:#00ffff}
+
+#rn{padding-top:30px}
+
+label{font-size:30px;color:solid black}
+#dm{padding:50px}
